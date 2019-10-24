@@ -2,8 +2,8 @@
   "name": "pl0i.js",
   "version": "1.0.0",
   "description": "PL0 interpreter for Javascript",
-  "main": "pl0i.js",
+  "main": "index.js",
   "repository": "https://github.com/basd4g/pl0i.js",
   "author": "Keisuke Nakayama <baskk4.dt@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
 }
