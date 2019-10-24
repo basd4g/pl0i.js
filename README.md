@@ -7,6 +7,6 @@ pl0i run assembly language program for pl0i.
 ## Usage
 
 ```sh
-node pl0i.js code.output
+$ ./run.sh
 # run code.output (assembly language program)
 ```
