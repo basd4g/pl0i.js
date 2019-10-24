@@ -1,3 +1,3 @@
-"use strict"
-
-console.log("hello,world!")
+"use strict";
+var str = "hello,world!";
+console.log(str);

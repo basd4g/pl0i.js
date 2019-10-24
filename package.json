@@ -2,8 +2,12 @@
   "name": "pl0i.js",
   "version": "1.0.0",
   "description": "PL0 interpreter for Javascript",
-  "main": "index.js",
+  "main": "index.ts",
   "repository": "https://github.com/basd4g/pl0i.js",
   "author": "Keisuke Nakayama <baskk4.dt@gmail.com>",
   "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.11.6",
+    "typescript": "^3.6.4"
+  }
 }
