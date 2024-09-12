@@ -8,6 +8,7 @@
   "license": "MIT",
   "dependencies": {
     "@types/node": "^12.11.6",
+    "readline-sync": "^1.4.10",
     "typescript": "^3.6.4"
   }
 }
